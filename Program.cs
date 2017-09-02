@@ -47,7 +47,7 @@ namespace DiscordBot
 
 
             // Connection
-            var token = "MzQ3OTU0NDI1MjE1ODQ0MzYy.DHmP1g.L9y48nBBhVkMvWnVc6xrUp5gMYI";
+            var token = "tokenhere";
             _client.ExecuteAndWait(async () =>
             {
                 await _client.Connect(token, TokenType.Bot);
