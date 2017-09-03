@@ -60,14 +60,11 @@ namespace DiscordBot
 
             string[] pancakenudes = new string[]
 {
-                "D:/Documents/Visual Basic projects/astrobotNUDES/astrobotNUDES/nudz/1.jpg",
-                "D:/Documents/Visual Basic projects/astrobotNUDES/astrobotNUDES/nudz/2.jpg",
-                "D:/Documents/Visual Basic projects/astrobotNUDES/astrobotNUDES/nudz/3.jpg",
-                "D:/Documents/Visual Basic projects/astrobotNUDES/astrobotNUDES/nudz/4.jpg",
-                "D:/Documents/Visual Basic projects/astrobotNUDES/astrobotNUDES/nudz/5.jpg",
-                "D:/Documents/Visual Basic projects/astrobotNUDES/astrobotNUDES/nudz/6.jpg",
-                "D:/Documents/Visual Basic projects/astrobotNUDES/astrobotNUDES/nudz/7.jpg",
-                "D:/Documents/Visual Basic projects/astrobotNUDES/astrobotNUDES/nudz/8.jpg",
+                "img",
+                "img",
+                "img",
+                "img",
+                "img",
                 "D:/Documents/Visual Basic projects/astrobotNUDES/astrobotNUDES/nudz/9.jpg"
 };
 
